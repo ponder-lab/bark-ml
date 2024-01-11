@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?eclipse-pydev version="1.0"?><pydev_project>
+        
     <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+        
     <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/bark_ml/behaviors</path>
+        <path>/${PROJECT_DIR_NAME}/bark_ml/commons</path>
+        <path>/${PROJECT_DIR_NAME}/bark_ml/environments</path>
+        <path>/${PROJECT_DIR_NAME}/bark_ml/evaluators</path>
+        <path>/${PROJECT_DIR_NAME}/bark_ml/experiment</path>
+        <path>/${PROJECT_DIR_NAME}/bark_ml/library_wrappers</path>
+        <path>/${PROJECT_DIR_NAME}/bark_ml/observers</path>
+        <path>/${PROJECT_DIR_NAME}/bark_ml/tests</path>
+        <path>/${PROJECT_DIR_NAME}/examples</path>
+        <path>/${PROJECT_DIR_NAME}/bark_ml</path>
+    </pydev_pathproperty>
 </pydev_project>
